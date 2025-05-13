@@ -5,6 +5,7 @@ Projeto - AgentPDF
 
 -> Tecnologias usadas no projeto 
 
+-  Python
 -  Streamlit para interface.
 -  LangChain responsável por orquestrar o fluxo de busca e geração de respostas.
 -  FAISS usado para indexar e buscar vetores de similaridade.
